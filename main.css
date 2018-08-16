@@ -1,7 +1,4 @@
-@font-face {
-    font-family: 'ubuntu'; /*a name to be used later*/
-    src: url('fonts/ubuntu.tff'); /*URL to font*/
-}
+
 
 
 
@@ -10,16 +7,15 @@ background-color: yellow;
 }
 
 h1 {
-font-family: ubuntu;
+font-family: 'Ubuntu', sans-serif;
 }
 
 p{
-font-family:ubuntu;
+font-family: 'Ubuntu', sans-serif;
 }
 
 ul{
  display: table;
  margin: 0 auto;
-  font-family: ubuntu;
-}
+    font-family: 'Ubuntu', sans-serif;
 

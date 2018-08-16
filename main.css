@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'ubuntu'; /*a name to be used later*/
+    src: url('fonts/ubuntu.tff'); /*URL to font*/
+}
+
+
+
 body {
 background-color: yellow;
 }
@@ -16,7 +23,3 @@ ul{
   font-family: ubuntu;
 }
 
-@font-face {
-    font-family: 'ubuntu'; /*a name to be used later*/
-    src: url('fonts/ubuntu.tff'); /*URL to font*/
-}

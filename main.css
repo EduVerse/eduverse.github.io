@@ -20,3 +20,14 @@ ul{
     font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
 }
 
+.About {
+ padding: 10px;
+ border: 20px;
+ margin: 25px;
+}
+
+.social-media {
+ padding:10px;
+ border: 20px;
+ margin: 25px;
+}

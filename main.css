@@ -3,7 +3,7 @@
  padding: 25px;
  border: 10px solid 	#000000;
  margin: 50px;
- font-family: 'Ubuntu', sans-serif;
+ /* font-family: 'Ubuntu', sans-serif; */
 }
 
 
@@ -12,30 +12,30 @@ background-color: yellow;
  font-family: 'Ubuntu', sans-serif;
 }
 
-h1 {
+/* h1 {
 font-family: 'Ubuntu', sans-serif;
-}
+} */
 
-p {
+/* p {
  font-family: 'Ubuntu', sans-serif;
-}
+} */
 
 ul{
  display: table;
  margin: 0 auto;
- font-family: 'Ubuntu', sans-serif;
+ /* font-family: 'Ubuntu', sans-serif; */
 }
 
 .About {
  padding: 10px;
  border: 20px;
  margin-top: 25px;
- font-family: 'Ubuntu', sans-serif;
+ /* font-family: 'Ubuntu', sans-serif; */
 }
 
 .social-media {
  padding:10px;
  border: 20px;
  margin: 25px;
- font-family: 'Ubuntu', sans-serif;
+ /* font-family: 'Ubuntu', sans-serif; */
 }

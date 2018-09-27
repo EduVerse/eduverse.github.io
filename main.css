@@ -1,15 +1,17 @@
 
-.maintitle {
- padding: 25px;
- border: 10px solid 	#000000;
- margin: 50px;
- /* font-family: 'Ubuntu', sans-serif; */
-}
 
 
 body {
 background-color: yellow;
  font-family: 'Ubuntu', sans-serif;
+}
+
+.maintitle {
+ padding: 25px;
+ border: 10px solid 	#000000;
+ margin: 50px;
+ font-family: 'Fredoka One', cursive;
+ /* font-family: 'Ubuntu', sans-serif; */
 }
 
 /* h1 {
